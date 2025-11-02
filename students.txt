@@ -1,0 +1,6 @@
+1,Ghulam Akbar,20,A,100
+2,Sir Daniyal,20,b,89
+3,Ali,20,C,75
+4,Mr Daniyal,10,a,42
+5,gh akbar,12,a,12
+6,muhammad daniyal,1,c,50
